@@ -1,13 +1,13 @@
 {
-  "version": 1,
-  "lastUpdated": "2026-04-14",
+  "version": 2,
+  "lastUpdated": "2026-04-15",
   "appName": "Aadhiraa'vin Tamil Kural",
   "kurals": [
     {
       "number": 1,
       "chapter": "கடவுள் வாழ்த்து (In Praise of God)",
       "tamil": "அகர முதல எழுத்தெல்லாம் ஆதி\nபகவன் முதற்றே உலகு.",
-      "english": "Just like the letter 'A-' is the first of all letters,\nGod is the first of everything in this world.",
+      "english": "Just like the letter 'A' is the first of all letters,\nGod is the first of everything in this world.",
       "meaning": "Just as 'அ' is the first of all letters, God is the foundation and beginning of this world.",
       "meaningTamil": "எழுத்துகளுக்கு 'அ' முதலானது போல, இந்த உலகிற்கு இறைவனே ஆதியாகவும் அடித்தளமாகவும் விளங்குகிறார்.",
       "story": "Little Aadhi was learning the Tamil alphabet. Seeing that 'அ' came first, he asked, \"Amma, why does 'அ' come first?\" His mother hugged him and said, \"Aadhima, every song needs a first note, every story needs a first page — and this world too has a beginning. That beginning is God. Whenever you start something, remember that you are part of a beautiful, big story.\" Aadhi smiled and lovingly wrote 'அ' in his notebook.",
@@ -17,9 +17,21 @@
       "scene": {
         "bgStart": "#FDE68A",
         "bgEnd": "#FBBF24",
-        "main": ["👩🏽", "📖", "👦🏽"],
-        "floating": ["அ", "✨", "⭐", "📚"]
-      }
+        "main": [
+          "👩🏽",
+          "📖",
+          "👦🏽"
+        ],
+        "floating": [
+          "அ",
+          "✨",
+          "⭐",
+          "📚"
+        ]
+      },
+      "category": "god",
+      "audioTamil": "",
+      "audioEnglish": ""
     },
     {
       "number": 2,
@@ -35,9 +47,21 @@
       "scene": {
         "bgStart": "#FECACA",
         "bgEnd": "#F87171",
-        "main": ["👧🏽", "🦜", "💬"],
-        "floating": ["🙏", "❤️", "📝", "✨"]
-      }
+        "main": [
+          "👧🏽",
+          "🦜",
+          "💬"
+        ],
+        "floating": [
+          "🙏",
+          "❤️",
+          "📝",
+          "✨"
+        ]
+      },
+      "category": "learning",
+      "audioTamil": "",
+      "audioEnglish": ""
     },
     {
       "number": 3,
@@ -53,9 +77,21 @@
       "scene": {
         "bgStart": "#BBF7D0",
         "bgEnd": "#4ADE80",
-        "main": ["👵🏽", "🪴", "👦🏽"],
-        "floating": ["🌸", "💧", "🌿", "☀️"]
-      }
+        "main": [
+          "👵🏽",
+          "🪴",
+          "👦🏽"
+        ],
+        "floating": [
+          "🌸",
+          "💧",
+          "🌿",
+          "☀️"
+        ]
+      },
+      "category": "family",
+      "audioTamil": "",
+      "audioEnglish": ""
     },
     {
       "number": 4,
@@ -71,9 +107,21 @@
       "scene": {
         "bgStart": "#FED7AA",
         "bgEnd": "#FB923C",
-        "main": ["👧🏽", "🚲", "👴🏽"],
-        "floating": ["☀️", "😊", "📚", "✨"]
-      }
+        "main": [
+          "👧🏽",
+          "🚲",
+          "👴🏽"
+        ],
+        "floating": [
+          "☀️",
+          "😊",
+          "📚",
+          "✨"
+        ]
+      },
+      "category": "habits",
+      "audioTamil": "",
+      "audioEnglish": ""
     },
     {
       "number": 5,
@@ -89,9 +137,21 @@
       "scene": {
         "bgStart": "#FEF3C7",
         "bgEnd": "#FBBF24",
-        "main": ["👦🏽", "🏺", "👩🏽"],
-        "floating": ["💔", "💛", "✨", "🤗"]
-      }
+        "main": [
+          "👦🏽",
+          "🏺",
+          "👩🏽"
+        ],
+        "floating": [
+          "💔",
+          "💛",
+          "✨",
+          "🤗"
+        ]
+      },
+      "category": "honesty",
+      "audioTamil": "",
+      "audioEnglish": ""
     },
     {
       "number": 6,
@@ -107,9 +167,21 @@
       "scene": {
         "bgStart": "#FBCFE8",
         "bgEnd": "#EC4899",
-        "main": ["👦🏽", "🍬", "👴🏽"],
-        "floating": ["👁️", "👂", "👃", "💪"]
-      }
+        "main": [
+          "👦🏽",
+          "🍬",
+          "👴🏽"
+        ],
+        "floating": [
+          "👁️",
+          "👂",
+          "👃",
+          "💪"
+        ]
+      },
+      "category": "habits",
+      "audioTamil": "",
+      "audioEnglish": ""
     },
     {
       "number": 7,
@@ -125,9 +197,21 @@
       "scene": {
         "bgStart": "#1E3A8A",
         "bgEnd": "#312E81",
-        "main": ["👧🏽", "🌙", "👨🏽"],
-        "floating": ["⭐", "✨", "🌟", "💫"]
-      }
+        "main": [
+          "👧🏽",
+          "🌙",
+          "👨🏽"
+        ],
+        "floating": [
+          "⭐",
+          "✨",
+          "🌟",
+          "💫"
+        ]
+      },
+      "category": "god",
+      "audioTamil": "",
+      "audioEnglish": ""
     },
     {
       "number": 8,
@@ -143,9 +227,21 @@
       "scene": {
         "bgStart": "#7DD3FC",
         "bgEnd": "#0369A1",
-        "main": ["👦🏽", "🛟", "🌊"],
-        "floating": ["💧", "🐟", "☁️", "✨"]
-      }
+        "main": [
+          "👦🏽",
+          "🛟",
+          "🌊"
+        ],
+        "floating": [
+          "💧",
+          "🐟",
+          "☁️",
+          "✨"
+        ]
+      },
+      "category": "kindness",
+      "audioTamil": "",
+      "audioEnglish": ""
     },
     {
       "number": 9,
@@ -161,9 +257,21 @@
       "scene": {
         "bgStart": "#FEF08A",
         "bgEnd": "#EAB308",
-        "main": ["👧🏽", "🏅", "👨🏽"],
-        "floating": ["🙏", "✨", "🎉", "❤️"]
-      }
+        "main": [
+          "👧🏽",
+          "🏅",
+          "👨🏽"
+        ],
+        "floating": [
+          "🙏",
+          "✨",
+          "🎉",
+          "❤️"
+        ]
+      },
+      "category": "family",
+      "audioTamil": "",
+      "audioEnglish": ""
     },
     {
       "number": 10,
@@ -179,9 +287,65 @@
       "scene": {
         "bgStart": "#A5F3FC",
         "bgEnd": "#0891B2",
-        "main": ["👦🏽", "⛵", "👧🏽"],
-        "floating": ["🌧️", "💧", "🌈", "✨"]
-      }
+        "main": [
+          "👦🏽",
+          "⛵",
+          "👧🏽"
+        ],
+        "floating": [
+          "🌧️",
+          "💧",
+          "🌈",
+          "✨"
+        ]
+      },
+      "category": "kindness",
+      "audioTamil": "",
+      "audioEnglish": ""
+    }
+  ],
+  "categories": [
+    {
+      "id": "god",
+      "emoji": "🙏",
+      "nameTamil": "கடவுள் & தொடக்கம்",
+      "nameEnglish": "God & Beginnings",
+      "color": "#FBBF24"
+    },
+    {
+      "id": "learning",
+      "emoji": "📚",
+      "nameTamil": "கல்வி & ஞானம்",
+      "nameEnglish": "Learning & Wisdom",
+      "color": "#60A5FA"
+    },
+    {
+      "id": "family",
+      "emoji": "❤️",
+      "nameTamil": "குடும்பம் & அன்பு",
+      "nameEnglish": "Family & Love",
+      "color": "#F87171"
+    },
+    {
+      "id": "habits",
+      "emoji": "💪",
+      "nameTamil": "நல்ல பழக்கங்கள்",
+      "nameEnglish": "Good Habits",
+      "color": "#A78BFA"
+    },
+    {
+      "id": "honesty",
+      "emoji": "⚖️",
+      "nameTamil": "உண்மை & நேர்மை",
+      "nameEnglish": "Honesty & Truth",
+      "color": "#34D399"
+    },
+    {
+      "id": "kindness",
+      "emoji": "🌱",
+      "nameTamil": "கருணை & அறம்",
+      "nameEnglish": "Kindness & Dharma",
+      "color": "#22D3EE"
     }
   ]
 }
