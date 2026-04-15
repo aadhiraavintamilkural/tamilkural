@@ -1,0 +1,187 @@
+{
+  "version": 1,
+  "lastUpdated": "2026-04-14",
+  "appName": "Aadhiraa'vin Tamil Kural",
+  "kurals": [
+    {
+      "number": 1,
+      "chapter": "கடவுள் வாழ்த்து (In Praise of God)",
+      "tamil": "அகர முதல எழுத்தெல்லாம் ஆதி\nபகவன் முதற்றே உலகு.",
+      "english": "Just like the letter 'A' is the first of all letters,\nGod is the first of everything in this world.",
+      "meaning": "Just as 'அ' is the first of all letters, God is the foundation and beginning of this world.",
+      "meaningTamil": "எழுத்துகளுக்கு 'அ' முதலானது போல, இந்த உலகிற்கு இறைவனே ஆதியாகவும் அடித்தளமாகவும் விளங்குகிறார்.",
+      "story": "Little Aadhi was learning the Tamil alphabet. Seeing that 'அ' came first, he asked, \"Amma, why does 'அ' come first?\" His mother hugged him and said, \"Aadhima, every song needs a first note, every story needs a first page — and this world too has a beginning. That beginning is God. Whenever you start something, remember that you are part of a beautiful, big story.\" Aadhi smiled and lovingly wrote 'அ' in his notebook.",
+      "storyTamil": "குட்டி ஆதி தமிழ் எழுத்துகளைக் கற்றுக்கொண்டிருந்தான். முதல் எழுத்தாக 'அ' இருப்பதைப் பார்த்து, \"அம்மா, ஏன் 'அ' முதலில் வருகிறது?\" என்று கேட்டான். அம்மா அவனை அரவணைத்துச் சொன்னாள், \"ஆதிமா, ஒவ்வொரு பாட்டிற்கும் முதல் சுருதி வேண்டும், ஒவ்வொரு கதைக்கும் முதல் பக்கம் வேண்டும், அதுபோல் இந்த உலகிற்கும் ஒரு தொடக்கம் உண்டு. அந்தத் தொடக்கமே இறைவன். எதையும் தொடங்கும்போது, நீ ஒரு பெரிய அழகான கதையின் பகுதி என்பதை நினைவில் கொள்.\" ஆதி புன்னகைத்து, தனது புத்தகத்தில் 'அ' என்ற எழுத்தை அன்போடு எழுதினான்.",
+      "lesson": "Every big journey starts with one small step. 🌱",
+      "lessonTamil": "ஒவ்வொரு பெரிய பயணமும் ஒரு சிறிய அடியில் தொடங்குகிறது. 🌱",
+      "scene": {
+        "bgStart": "#FDE68A",
+        "bgEnd": "#FBBF24",
+        "main": ["👩🏽", "📖", "👦🏽"],
+        "floating": ["அ", "✨", "⭐", "📚"]
+      }
+    },
+    {
+      "number": 2,
+      "chapter": "கடவுள் வாழ்த்து (In Praise of God)",
+      "tamil": "கற்றதனால் ஆய பயனென்கொல் வாலறிவன்\nநற்றாள் தொழாஅர் எனின்.",
+      "english": "What is the use of all our learning,\nif we don't have a thankful and pure heart?",
+      "meaning": "If we don't have gratitude and goodness in our heart, all our learning is wasted.",
+      "meaningTamil": "உள்ளத்தில் நன்றியும் நற்குணமும் இல்லாவிட்டால், நாம் எவ்வளவு கற்றாலும் அது வீணே.",
+      "story": "Aara was the brightest girl in her class. Math, science, three languages — she knew them all. But she never said thank you, and she never helped anyone. One day Thatha called her and said, \"Aaramaa, listen to a story.\" \"A parrot once learned a thousand words, but never spoke kindly to any other parrot. The other birds slowly moved away from it.\" Aara understood. From that day, she began each morning by saying thank you — to Amma, to her teacher, to the sky. After that, her learning shone even more brightly.",
+      "storyTamil": "ஆரா வகுப்பில் மிகவும் புத்திசாலி. கணக்கு, அறிவியல், மூன்று மொழிகள் — எல்லாமே அவளுக்கு நன்றாகத் தெரியும். ஆனால் ஒருவருக்கும் நன்றி சொல்லமாட்டாள், யாருக்கும் உதவவும் மாட்டாள். ஒருநாள் தாத்தா அவளை அழைத்து, \"ஆராமா, ஒரு கதை கேள்\" என்று சொன்னார். \"ஒரு கிளி ஆயிரம் சொற்களைக் கற்றது, ஆனால் எந்தக் கிளியிடமும் இனிமையாகப் பேசவில்லை. மற்ற பறவைகள் அதை விட்டு விலகிச் சென்றுவிட்டன.\" ஆராவிற்குப் புரிந்தது. அன்று முதல் அவள் ஒவ்வொரு காலையிலும் அம்மாவிற்கும், ஆசிரியருக்கும், வானத்திற்கும் நன்றி சொல்லத் தொடங்கினாள். அதன் பிறகு அவளது கல்வி இன்னும் பிரகாசமாக ஒளிர்ந்தது.",
+      "lesson": "Learning shines best when joined with kindness. 🙏",
+      "lessonTamil": "கல்வியோடு கருணையும் சேர்ந்தாலே சிறப்பு. 🙏",
+      "scene": {
+        "bgStart": "#FECACA",
+        "bgEnd": "#F87171",
+        "main": ["👧🏽", "🦜", "💬"],
+        "floating": ["🙏", "❤️", "📝", "✨"]
+      }
+    },
+    {
+      "number": 3,
+      "chapter": "கடவுள் வாழ்த்து (In Praise of God)",
+      "tamil": "மலர்மிசை ஏகினான் மாணடி சேர்ந்தார்\nநிலமிசை நீடு வாழ்வார்.",
+      "english": "Those who follow God with pure hearts\nwill live long and happy lives on this earth.",
+      "meaning": "Those who live with a pure heart and good thoughts will lead long, happy lives.",
+      "meaningTamil": "தூய மனத்தோடும் நல்ல எண்ணங்களோடும் வாழ்பவர்கள் நீண்ட, மகிழ்ச்சியான வாழ்க்கையை வாழ்வார்கள்.",
+      "story": "Every morning, Aadhi watched Appatha water the tulsi plant. \"Appatha, why do you do this every day?\" he asked. Appatha smiled and said, \"When I care for this little plant with love, my mind becomes calm like a flower, Aadhima. A calm mind lives a long and happy life.\" From that day, Aadhi began helping her too. Soon, he noticed he no longer got angry with his sister Aara as often. His heart had become as soft as a flower opening in the morning sun.",
+      "storyTamil": "ஒவ்வொரு காலையிலும் அப்பத்தா துளசிச் செடிக்கு நீர் ஊற்றுவதை ஆதி பார்த்துக்கொண்டிருந்தான். \"அப்பத்தா, ஏன் தினமும் இதைச் செய்கிறாய்?\" என்று கேட்டான். அப்பத்தா சிரித்துச் சொன்னாள், \"இந்தச் சின்ன செடியை அன்போடு பராமரிக்கும்போது, என் மனம் மலரைப் போல் அமைதியாகிறது ஆதிமா. அமைதியான மனம் நீண்ட நாள் மகிழ்ச்சியாக வாழும்.\" அன்று முதல் ஆதியும் அப்பத்தாவிற்கு உதவத் தொடங்கினான். விரைவில், தங்கை ஆராவிடம் முன்பு போல் கோபப்படாதது அவனுக்குப் புரிந்தது. அவனது மனம் காலை வெயிலில் மலரும் பூவைப் போல் மென்மையாக மாறியிருந்தது.",
+      "lesson": "A soft, loving heart makes life beautiful. 🌸",
+      "lessonTamil": "மென்மையான, அன்பான மனம் வாழ்க்கையை அழகாக்கும். 🌸",
+      "scene": {
+        "bgStart": "#BBF7D0",
+        "bgEnd": "#4ADE80",
+        "main": ["👵🏽", "🪴", "👦🏽"],
+        "floating": ["🌸", "💧", "🌿", "☀️"]
+      }
+    },
+    {
+      "number": 4,
+      "chapter": "கடவுள் வாழ்த்து (In Praise of God)",
+      "tamil": "வேண்டுதல் வேண்டாமை இலானடி சேர்ந்தார்க்கு\nயாண்டும் இடும்பை இல.",
+      "english": "Those who follow someone free of wants and hate\nwill never be troubled by sadness.",
+      "meaning": "Those who follow people without greed or hatred will never fall into sorrow.",
+      "meaningTamil": "ஆசையும் வெறுப்பும் இல்லாதவர்களைப் பின்பற்றுபவர்கள் என்றும் துன்பத்திற்கு ஆளாகார்.",
+      "story": "Aara's friend got a brand new bicycle. Aara felt sad because her bicycle was old. Appa noticed and said, \"Aaramaa, come, let's visit Thatha,\" and took her along. Thatha's home had only a few things, but Thatha was always smiling. \"Thatha, doesn't it make you sad to not have new things?\" Aara asked. Thatha laughed and said, \"I have the sunrise, I have you, I have my books, Aaramaa. When you stop chasing what you don't have, happiness comes to you on its own.\" Aara went home and rode her old bicycle with the biggest smile.",
+      "storyTamil": "ஆராவின் தோழிக்குப் புதிய இருசக்கர வண்டி வாங்கியிருந்தார்கள். ஆராவின் வண்டி பழையது என்பதால் அவள் சோகமாக இருந்தாள். அப்பா அதைக் கவனித்து, \"ஆராமா, வா, தாத்தாவைப் பார்க்கப் போவோம்\" என்று அழைத்துச் சென்றார். தாத்தாவின் வீட்டில் சில பொருட்களே இருந்தன, ஆனால் தாத்தா எப்போதும் புன்னகையோடு இருப்பார். \"தாத்தா, புதிய பொருட்கள் இல்லாதது உங்களுக்குச் சோகமாக இல்லையா?\" என்று ஆரா கேட்டாள். தாத்தா சிரித்துச் சொன்னார், \"எனக்குச் சூரிய உதயம் உண்டு, நீ உண்டு, புத்தகங்கள் உண்டு ஆராமா. இல்லாதவற்றை விடாமல் துரத்தாதபோது, மகிழ்ச்சி தானாகவே வந்து சேரும்.\" ஆரா வீடு திரும்பி, தனது பழைய வண்டியில் நிறைந்த புன்னகையோடு சுற்றினாள்.",
+      "lesson": "When wanting less, happiness grows. ☀️",
+      "lessonTamil": "ஆசை குறையும்போது மகிழ்ச்சி பெருகும். ☀️",
+      "scene": {
+        "bgStart": "#FED7AA",
+        "bgEnd": "#FB923C",
+        "main": ["👧🏽", "🚲", "👴🏽"],
+        "floating": ["☀️", "😊", "📚", "✨"]
+      }
+    },
+    {
+      "number": 5,
+      "chapter": "கடவுள் வாழ்த்து (In Praise of God)",
+      "tamil": "இருள்சேர் இருவினையும் சேரா இறைவன்\nபொருள்சேர் புகழ்புரிந்தார் மாட்டு.",
+      "english": "When we truly praise God through our actions,\nthe darkness of good and bad deeds disappears.",
+      "meaning": "When we speak the truth and live truthfully, the darkness and confusion in our minds melts away.",
+      "meaningTamil": "உண்மையாகப் பேசி, உண்மையாக வாழும்போது, மனத்திலுள்ள இருளும் குழப்பமும் விலகும்.",
+      "story": "Aadhi accidentally broke Amma's favourite flower pot. Out of fear, he hid the broken pieces under the couch. All day his heart felt heavy — lunch had no taste, play was no fun. Finally, he ran to Amma and said, \"Amma, I broke the flower pot. Please forgive me.\" Amma hugged him and said, \"The pot can be glued back, Aadhima. But see how light your heart feels now!\" Aadhi felt as if a mountain had been lifted off his chest. He promised that, no matter how scared he was, he would always tell the truth first.",
+      "storyTamil": "ஆதி தற்செயலாக அம்மாவின் அன்புப் பூந்தொட்டியை உடைத்துவிட்டான். பயத்தில் உடைந்த துண்டுகளைச் சாய்வுநாற்காலியின் கீழே மறைத்து வைத்தான். நாள் முழுவதும் அவனது மனம் கனமாக இருந்தது — மதிய உணவு ருசிக்கவில்லை, விளையாடவும் முடியவில்லை. இறுதியில் அம்மாவிடம் ஓடி, \"அம்மா, நான்தான் பூந்தொட்டியை உடைத்தேன். மன்னித்துவிடு\" என்றான். அம்மா அவனை அரவணைத்து, \"பூந்தொட்டியை மீண்டும் ஒட்ட முடியும் ஆதிமா. ஆனால் இப்போது உன் மனம் எவ்வளவு இலகுவாக இருக்கிறது பார்!\" என்றாள். உண்மை அவனது மார்பில் இருந்த ஒரு மலையை இறக்கியதைப் போல் ஆதி உணர்ந்தான். எவ்வளவு பயமாக இருந்தாலும் முதலில் உண்மையே பேசுவேன் என்று வாக்களித்தான்.",
+      "lesson": "Truth makes the heart light and bright. ✨",
+      "lessonTamil": "உண்மை மனத்தை இலகுவாகவும் ஒளிமயமாகவும் ஆக்கும். ✨",
+      "scene": {
+        "bgStart": "#FEF3C7",
+        "bgEnd": "#FBBF24",
+        "main": ["👦🏽", "🏺", "👩🏽"],
+        "floating": ["💔", "💛", "✨", "🤗"]
+      }
+    },
+    {
+      "number": 6,
+      "chapter": "கடவுள் வாழ்த்து (In Praise of God)",
+      "tamil": "பொறிவாயில் ஐந்தவித்தான் பொய்தீர் ஒழுக்க\nநெறிநின்றார் நீடு வாழ்வார்.",
+      "english": "Those who control their five senses\nand walk the path of truth will live long and happy lives.",
+      "meaning": "Those who control their five senses and walk the path of truth lead long, peaceful lives.",
+      "meaningTamil": "தங்கள் ஐம்புலன்களையும் கட்டுப்படுத்தி, உண்மையான வழியில் நடப்பவர்கள் நீண்ட, அமைதியான வாழ்வு வாழ்வார்கள்.",
+      "story": "Aadhi loved sweets very much. Even when Amma said no, he would secretly take them. One day he ate so many laddus that his stomach hurt for two days! When Thatha visited, he said, \"Aadhima, our eyes, ears, nose, tongue, and skin — these five senses are like five little puppies. If we let them run wherever they please, they get us into trouble. But if we train them with love, they become our best friends.\" Aadhi started eating just one sweet a day — and that one sweet tasted sweeter than five ever did.",
+      "storyTamil": "ஆதிக்கு இனிப்பு மிகவும் பிடிக்கும். அம்மா வேண்டாம் என்று சொன்னாலும் திருட்டுத்தனமாக எடுத்துச் சாப்பிட்டுவிடுவான். ஒருநாள் அதிகமாக லட்டு சாப்பிட்டதால் இரண்டு நாட்களுக்கு வயிறு வலித்தது! தாத்தா வந்த போது, \"ஆதிமா, நம் கண், காது, மூக்கு, நாக்கு, தோல் — இந்த ஐம்புலன்களும் ஐந்து சின்னக் குட்டிகளைப் போல. அவற்றை மனம்போல் ஓட விட்டால், நம்மைத் தொல்லையில் தள்ளும். ஆனால் அன்போடு பயிற்றுவித்தால், நமது உற்ற நண்பர்களாக மாறும்\" என்றார். ஆதி ஒரு நாளைக்கு ஒரு இனிப்பு மட்டுமே சாப்பிடத் தொடங்கினான் — அந்த ஒரு இனிப்பு ஐந்து இனிப்புகளை விட இனிமையாக இருந்தது.",
+      "lesson": "Mastering yourself is the greatest strength. 💪",
+      "lessonTamil": "தன்னையே ஆள்வதே மிகப் பெரிய வலிமை. 💪",
+      "scene": {
+        "bgStart": "#FBCFE8",
+        "bgEnd": "#EC4899",
+        "main": ["👦🏽", "🍬", "👴🏽"],
+        "floating": ["👁️", "👂", "👃", "💪"]
+      }
+    },
+    {
+      "number": 7,
+      "chapter": "கடவுள் வாழ்த்து (In Praise of God)",
+      "tamil": "தனக்குவமை இல்லாதான் தாள்சேர்ந்தார்க் கல்லால்\nமனக்கவலை மாற்றல் அரிது.",
+      "english": "It is hard to free the mind from worry\nunless we connect with the One who has no equal.",
+      "meaning": "When we connect with God, who is greater than us, our worries begin to feel small.",
+      "meaningTamil": "நம்மை விடப் பெரியவரான இறைவனோடு இணையும்போது, நமது கவலைகள் சிறியதாகத் தோன்றும்.",
+      "story": "Aara was worried about her school exam. She couldn't sleep. Appa took her up to the terrace at night. \"Aaramaa, look up,\" he said. Thousands of stars were twinkling. \"See how vast this universe is? Your exam matters, yes — but worry won't help. Do what you can, and leave the rest to these stars.\" Aara's shoulders relaxed. She studied calmly, slept peacefully, and did beautifully on her exam. Now, whenever worry comes, she looks at the sky and smiles.",
+      "storyTamil": "ஆராவிற்குப் பள்ளித் தேர்வைப் பற்றிக் கவலையாக இருந்தது. தூக்கம் வரவில்லை. அப்பா அவளை இரவில் மொட்டை மாடிக்கு அழைத்துச் சென்றார். \"ஆராமா, மேலே பார்\" என்றார். ஆயிரக்கணக்கான நட்சத்திரங்கள் மின்னிக்கொண்டிருந்தன. \"இந்தப் பேரண்டம் எவ்வளவு பெரியது பார்த்தாயா? உன் தேர்வு முக்கியம்தான், ஆனால் கவலைப்படுவதால் பயனில்லை. உன்னால் முடிந்ததைச் செய், மீதியை இந்த நட்சத்திரங்களிடம் விட்டுவிடு\" என்றார். ஆராவின் தோள்கள் தளர்ந்தன. அமைதியாகப் படித்தாள், நிம்மதியாகத் தூங்கினாள், தேர்வில் சிறப்பாகச் செயல்பட்டாள். இப்போது கவலை வரும்போதெல்லாம் வானத்தைப் பார்த்துப் புன்னகைக்கிறாள்.",
+      "lesson": "When we see the bigger picture, worries shrink. 🌌",
+      "lessonTamil": "பெரிய காட்சியைப் பார்த்தால் கவலைகள் சுருங்கும். 🌌",
+      "scene": {
+        "bgStart": "#1E3A8A",
+        "bgEnd": "#312E81",
+        "main": ["👧🏽", "🌙", "👨🏽"],
+        "floating": ["⭐", "✨", "🌟", "💫"]
+      }
+    },
+    {
+      "number": 8,
+      "chapter": "கடவுள் வாழ்த்து (In Praise of God)",
+      "tamil": "அறவாழி அந்தணன் தாள்சேர்ந்தார்க் கல்லால்\nபிறவாழி நீந்தல் அரிது.",
+      "english": "Unless we hold onto goodness,\nit is hard to cross the ocean of life's troubles.",
+      "meaning": "Only by holding on to dharma (goodness) can we cross the difficult ocean of life.",
+      "meaningTamil": "அறத்தைப் பற்றிக்கொள்வதன் மூலம் மட்டுமே வாழ்க்கையின் கடினமான கடலைக் கடக்க முடியும்.",
+      "story": "Aadhi went for swimming practice. When he saw the deep water, his heart trembled. The teacher held out a float and said, \"Aadhima, hold on to this — it won't let you sink.\" Aadhi trusted it, held on, and slowly learned to swim. That evening Amma told him, \"Life is just like this, Aadhima. Dharma is our float. When life feels like a deep ocean, love and truth keep us safe.\" From then on, whenever anger or lies came to him, Aadhi remembered his float and chose kindness.",
+      "storyTamil": "ஆதி நீச்சல் பயிற்சிக்குச் சென்றான். ஆழமான நீரைக் கண்டதும் அவனது மனம் நடுங்கியது. ஆசிரியர் ஒரு மிதவையை அவனிடம் நீட்டி, \"ஆதிமா, இதைப் பற்றிக்கொள், இது உன்னை மூழ்கவிடாது\" என்றார். ஆதி நம்பிக்கையோடு அதைப் பிடித்துக்கொண்டு மெல்ல நீச்சல் கற்றான். அன்று மாலை அம்மா சொன்னாள், \"வாழ்க்கையும் இப்படித்தான் ஆதிமா. அறமே நமது மிதவை. வாழ்க்கை ஆழமான கடல் போல் தோன்றும்போது, அன்பும் உண்மையும் நம்மைக் காப்பாற்றும்.\" அன்றிலிருந்து கோபமோ பொய்யோ வரும்போதெல்லாம், தனது மிதவையை நினைத்துக் கருணையைத் தேர்ந்தெடுத்தான்.",
+      "lesson": "Dharma is our life-float. 🛟",
+      "lessonTamil": "அறமே நமது வாழ்க்கை மிதவை. 🛟",
+      "scene": {
+        "bgStart": "#7DD3FC",
+        "bgEnd": "#0369A1",
+        "main": ["👦🏽", "🛟", "🌊"],
+        "floating": ["💧", "🐟", "☁️", "✨"]
+      }
+    },
+    {
+      "number": 9,
+      "chapter": "கடவுள் வாழ்த்து (In Praise of God)",
+      "tamil": "கோளில் பொறியின் குணமிலவே எண்குணத்தான்\nதாளை வணங்காத் தலை.",
+      "english": "A head that doesn't bow to the One with eight virtues\nis like a body part that doesn't work.",
+      "meaning": "A head that doesn't bow with gratitude is like a body part that doesn't work.",
+      "meaningTamil": "நன்றியோடு வணங்காத தலை, இயங்காத உறுப்பைப் போன்றதே.",
+      "story": "When Aara won her first cycling race medal, she ran home shouting, \"I won! I won all by myself!\" Ammachi gently asked, \"Aaramaa, who taught you to balance? Who cheered you on? Who built your bicycle?\" Aara paused. She remembered Appa running behind her, her friends clapping, the cycle-shop uncle — everyone came to her mind. She quietly bowed to Appa and said \"thank you.\" Now her medal felt much heavier — and much more precious.",
+      "storyTamil": "ஆரா தனது முதல் சைக்கிள் பந்தயப் பதக்கத்தை வென்றுவந்தபோது, வீட்டிற்கு ஓடிவந்து, \"நான் வென்றேன்! நானே வென்றேன்!\" என்று கூவினாள். அம்மாச்சி மென்மையாகக் கேட்டாள், \"ஆராமா, உனக்கு சமநிலையை யார் கற்றுக்கொடுத்தார்கள்? உன்னை யார் ஊக்கப்படுத்தினார்கள்? உனது வண்டியை யார் செய்தார்கள்?\" ஆரா சற்றே நிறுத்தினாள். பின்னால் ஓடிய அப்பா, கைதட்டிய தோழிகள், வண்டிக்கடை மாமா — எல்லோரும் நினைவிற்கு வந்தனர். அமைதியாக அப்பாவை வணங்கி \"நன்றி\" என்றாள். அந்தப் பதக்கம் இப்போது இன்னும் கனமாக — இன்னும் விலைமதிப்புள்ளதாக — உணர்ந்தாள்.",
+      "lesson": "A grateful heart is a strong heart. 🙇",
+      "lessonTamil": "நன்றியுள்ள மனமே வலிமையான மனம். 🙇",
+      "scene": {
+        "bgStart": "#FEF08A",
+        "bgEnd": "#EAB308",
+        "main": ["👧🏽", "🏅", "👨🏽"],
+        "floating": ["🙏", "✨", "🎉", "❤️"]
+      }
+    },
+    {
+      "number": 10,
+      "chapter": "கடவுள் வாழ்த்து (In Praise of God)",
+      "tamil": "பிறவிப் பெருங்கடல் நீந்துவர் நீந்தார்\nஇறைவன் அடிசேரா தார்.",
+      "english": "Those who hold on to God's goodness\ncross life's great ocean. Those who don't, cannot.",
+      "meaning": "Life is like a great ocean. Those who hold on to dharma cross it; others struggle.",
+      "meaningTamil": "வாழ்க்கை ஒரு பெரிய கடல் போன்றது. அறத்தைப் பற்றிக்கொள்பவர்கள் கடப்பார்கள்; மற்றவர்கள் சிரமப்படுவார்கள்.",
+      "story": "After the rain stopped, little Aadhi was sailing paper boats in the puddles. Some boats sank, some floated far away. \"Akka, why do some sink?\" he asked his older sister Aara. Aara said, \"Aadhima, the boats with holes sink. The strong ones float.\" Aadhi thought for a moment. \"Our hearts are like boats too, aren't they, Akka? If we fill them with anger and lies, holes appear. If we fill them with love and truth, they sail beautifully.\" Aara smiled and said, \"You've become a poet, little brother!\"",
+      "storyTamil": "மழை பெய்து நின்ற பிறகு, குட்டி ஆதி தண்ணீர்க் குட்டையில் காகிதப் படகு விட்டுக்கொண்டிருந்தான். சில படகுகள் மூழ்கின, சில தொலைவிற்கு மிதந்து சென்றன. \"அக்கா, ஏன் சில மூழ்குகின்றன?\" என்று அக்கா ஆராவிடம் கேட்டான். ஆரா சொன்னாள், \"ஆதிமா, ஓட்டை உள்ள படகுகள் மூழ்கும். வலிமையானவை மிதக்கும்.\" ஆதி சிந்தித்தான். \"நமது மனமும் படகுகள் போன்றதுதானே அக்கா? கோபத்தாலும் பொய்யாலும் நிரப்பினால், ஓட்டை விழும். அன்பாலும் உண்மையாலும் நிரப்பினால், அழகாக மிதக்கும்.\" ஆரா சிரித்து, \"நீ ஒரு கவிஞனாகிவிட்டாய் தம்பி!\" என்றாள்.",
+      "lesson": "To sail far, fill your heart with good things. ⛵",
+      "lessonTamil": "தொலைவில் பயணிக்க, மனத்தை நல்லவற்றால் நிரப்பு. ⛵",
+      "scene": {
+        "bgStart": "#A5F3FC",
+        "bgEnd": "#0891B2",
+        "main": ["👦🏽", "⛵", "👧🏽"],
+        "floating": ["🌧️", "💧", "🌈", "✨"]
+      }
+    }
+  ]
+}
